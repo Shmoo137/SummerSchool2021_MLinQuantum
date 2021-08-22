@@ -1,6 +1,6 @@
 # Tutorials prepared for the ["Summer School: Machine Learning in Quantum Physics and Chemistry"](https://ml2021.ckc.uw.edu.pl/)
 
-**DISCLAIMER:** The majority of the code prepared within tutorials comes from our great lecturers, i.e., *Eliska Greplova*, *Roman Krems*, *Giuseppe Carleo*, *Florian Marquardt*, and their collaborators (see the list of authors in the beginning of every notebook). I (Anna Dawid) am responsible only for gathering them in one place and adapting to meet the needs of participants of our school (i.e., adding comments, information on using Google Colaboratory, etc.).
+**DISCLAIMER:** The majority of the code prepared within tutorials comes from our great lecturers, i.e., *Eliska Greplova*, *Roman Krems*, *Giuseppe Carleo*, *Florian Marquardt*, and their collaborators (see the list of authors in the beginning of every notebook). I (Anna Dawid) am responsible only for gathering them in one place and adapting to meet the needs of participants of our school (i.e., adding comments, information on using Google Colaboratory, hyperparameters, comparing Tensorflow and PyTorch, etc.).
 
 ## Hands-on Tutorial A: Phase Classification with Unsupervised and Supervised Machine Learning (by Eliska Greplova)
 Folder "A - Phase Classification (by Eliska Greplova)" contains:
