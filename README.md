@@ -6,13 +6,13 @@
 Folder "A - Phase Classification (by Eliska Greplova)" contains:
 - a folder `Ising_data` with Monte-Carlo generated configurations of Ising spins on a 30x30 lattice with labels as well as configurations of spins from Ising Gauge Theory (IGT) with labels. In particular:
   - `ising_training_configs_30x30.npy` contains configurations of Ising spins belonging to the training set,
-  - `ising_training_labels_30x30.npy` contains labels corresponding to phases of Ising spins belonging to the training set,
+  - `ising_training_labels_30x30.npy` contains labels, i.e., temperatures of Monte Carlo samples of Ising spins belonging to the training set,
   - `ising_test_configs_30x30.npy` contains configurations of Ising spins belonging to the test set,
-  - `ising_test_labels_30x30.npy` contains labels corresponding to phases of Ising spins belonging to the test set,
+  - `ising_test_labels_30x30.npy` contains labels, i.e., temperatures of Monte Carlo samples of Ising spins belonging to the test set,
   - `ilgt_training_configs.npy` contains configurations of IGT spins belonging to the training set,
-  - `ilgt_training_labels.npy` contains labels corresponding to phases of IGT spins belonging to the training set,
+  - `ilgt_training_labels.npy` contains labels, i.e., temperatures of Monte Carlo samples of IGT spins belonging to the training set,
   - `ilgt_test_configs.npy` contains configurations of IGT spins belonging to the test set,
-  - `ilgt_test_labels.npy` contains labels corresponding to phases of IGT spins belonging to the test set.
+  - `ilgt_test_labels.npy` contains labels, i.e., temperatures of Monte Carlo samples of IGT spins belonging to the test set.
 
 After the summer school the folder will also contain:
 - a Jupyter notebook `01_Unsupervised_learning.ipynb` which aims at clustering states from both models into corresponding phases with Principal Component Analysis (PCA) and t-Stochastic Neighborhood Embedding (t-SNE),
