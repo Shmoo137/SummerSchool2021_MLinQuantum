@@ -14,3 +14,5 @@ The folder also contains:
 - a Jupyter notebook `01_Unsupervised_learning.ipynb` which aims at clustering states from both models into corresponding phases with Principal Component Analysis (PCA) and t-Stochastic Neighborhood Embedding (t-SNE),
 - a Jupyter notebook `02_Supervised_learning.ipynb` where we train neural networks to recognise phases in both models and stress the importance of regularization of ML models,
 - a Jupyter notebook `03_More_sophisticated_NN_methods.ipynb` where we implement ["learning by confusion"](https://www.nature.com/articles/nphys4037) and ["predictive model"](https://iopscience.iop.org/article/10.1088/1367-2630/ab7771/meta) to detect phase transition in the Ising model.
+
+For similar excercises but in PyTorch instead of Tensorflow, see ["Eliska's course at TU Delft"](https://www.eliskagreplova.com/ai-for-physicists-ap3751).
